@@ -18,4 +18,6 @@ Features:
 * view rendering 
 
 * view helper [being developed]
+* lightweight
+* can be installed very quickly 
 * many more
